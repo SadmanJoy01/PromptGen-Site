@@ -44,7 +44,7 @@ Writing effective prompts is a skill. PromptGen removes the guesswork by transfo
 ## 📌 Example
 
 ### User Input - Web Development
-### Generated Full PResearchers
+### Generated Full Prompt
 ## 🧩 Use Cases
 
 - 📚 Students & learners
@@ -58,8 +58,6 @@ Writing effective prompts is a skill. PromptGen removes the guesswork by transfo
 ---
 
 ## 🧪 Tech Stack (Example)
-
-> Update this section based on your actual implementation.
 
 - Idea: From my own problem 
 - Frontend: HTML / CSS / JavaScript only 😎
